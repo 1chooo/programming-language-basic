@@ -1,0 +1,7 @@
+*.out
+*.exe
+fortran/reference/gfortran/20210618/test.gs
+fortran/reference/gfortran/20210618/test.ps
+fortran/reference/gfortran/20210618/gmeta.ps
+fortran/reference/gfortran/1092-109601003-end term/109601003-第一題.ps
+fortran/reference/gfortran/20210618/square_wave.gs
